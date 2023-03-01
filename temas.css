@@ -10,14 +10,37 @@
     height: 150px;
     background-color: rgba(241, 37, 224, 0.918);
     font-size: 100px;
-    text-align: center;
+    text-align: center;    
 }
 .menu{
 
     width: 100%;
     height: 100px;
     background-color: rgb(224, 100, 208);
+    display: flex;
 }
+.sociales{
+width: 90px;
+height: 98px;
+background-color: rgb(238, 243, 245);
+margin:2px ;
+
+}
+.ingles{   
+width: 90px;
+height: 98px;
+background-color: rgb(224, 236, 236);
+margin:2px ;
+
+}
+.matematicas{
+ width: 90px;
+height: 98px;
+background-color: rgb(233, 241, 243);
+margin:2px;
+}
+
+
 .contenedor2{
 
     width: 100%;

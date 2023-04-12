@@ -40,8 +40,21 @@ background-color: rgb(233, 241, 243);
 margin:2px;
 
 }
-
-
+.biologia{
+    width: 90px;
+   height: 98px;
+   background-color: rgb(233, 241, 243);
+   margin:2px;
+   
+   }
+   .tecnologia{
+    width: 90px;
+   height: 98px;
+   background-color: rgb(233, 241, 243);
+   margin:2px;
+   
+   }
+    
 .contenedor2{
 
     width: 100%;

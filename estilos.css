@@ -1,8 +1,8 @@
 *{
 
-    padding: 0px;
+    padding: 400px;
     
-    margin: 0px;
+    margin: 400px;
     
     }
     
@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("imagenes.jpg");
     
     background-repeat: no-repeat;
     
@@ -19,30 +19,30 @@
     
     .fondotecnologia{
     
-        background-image: url("787.jpg");
+        background-image: url("");
         
         background-repeat: no-repeat;
         
         }
     
     
-    .img{
+    .imagenes{
     
     position: relative;
     
      
     
-    width: 190px;
+    width: 4500px;
     
-    height: 190px;
+    height: 200px;
     
-    border-radius: 10px;
+    border-radius: 00px;
     
     background-repeat: no-repeat;
     
      
     
-    left: 180px;
+    left: 400px;
     
     background-image: url("medellin.jpeg");
     
@@ -52,7 +52,7 @@
     
      
     
-    height: 230px;
+    height: 4000px;
     
      
     
@@ -60,11 +60,11 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 39px;
     
     text-align: justify;
     
-    color: brown;
+    color: rgba(8, 8, 8, 0.959);
     
      
     
@@ -105,14 +105,31 @@
         background-image: url("discursobolivar.jpg");
         
         }
+        .imagenes.jpg{
         
+         
         
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("imagenes.jpg");
+        }
+    
         
         .textosociales{
         
         text-align: justify;
         
-        color: rgb(255, 255, 255);
+        color: rgb(199, 8, 8);
         
         font-size: 20px;
         

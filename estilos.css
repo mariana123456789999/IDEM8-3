@@ -150,8 +150,63 @@
     
     }
 
+    .imagenesmatematicas{
 
-.imagenesmatematicas{
+ 
+
+        background-repeat: no-repeat;
+        
+        float:center;
+        
+        height: 300px;
+        
+        width: 270px;
+        
+        margin-left: 17px;
+        
+        margin-right:17px;
+        
+        background-image: url("");
+    }
+    .imagenesmatematicas{
+
+ 
+
+        background-repeat: no-repeat;
+        
+        float:center;
+        
+        height: 300px;
+        
+        width: 270px;
+        
+        margin-left: 17px;
+        
+        margin-right:17px;
+        
+        background-image: url("fatorizacion3.jpg");
+    }
+
+.imagenessociales{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 3000px;
+    
+    width: 3000px;
+    
+    margin-left: 100px;
+    
+    margin-right:100px;
+    
+    background-image: url("revolucion.png");
+}
+
+.imagenesingles{
 
  
 
@@ -167,5 +222,25 @@
     
     margin-right:5px;
     
-    background-image: url("revolucion.png");
+    background-image: url("");
 }
+
+.imagenestecnologuia{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+

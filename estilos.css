@@ -11,9 +11,9 @@
     
     body{
     
-    background-image: url("imagenes.jpg");
+    background-image: url("FT5.png");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
     }
     
@@ -138,7 +138,7 @@
         }
     
     
-      .textomateticas{
+      .textomatematicas{
     
     font-size: 50px;
     
@@ -168,7 +168,7 @@
         
         background-image: url("");
     }
-    .imagenesmatematicas{
+    .imagenesmatematicas3{
 
  
 
@@ -178,13 +178,13 @@
         
         height: 300px;
         
-        width: 270px;
+        width: 772px;
         
-        margin-left: 17px;
+        margin-left: 5px;
         
-        margin-right:17px;
+        margin-right:7px;
         
-        background-image: url("fatorizacion3.jpg");
+        background-image: url("fat3.jpg");
     }
 
 .imagenessociales{
@@ -203,7 +203,7 @@
     
     margin-right:100px;
     
-    background-image: url("revolucion.png");
+    background-image: url("");
 }
 
 .imagenesingles{

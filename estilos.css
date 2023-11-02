@@ -24,7 +24,7 @@
         
         }
         .fondosoci{
-            background-image: url("fonsi.png");
+            background-image: url("fondo2.png");
             background-repeat: repeat;
             }
         
@@ -202,7 +202,7 @@
         
     }
 
-.imagenessociales{
+.imagenessociales1{
 
  
 
@@ -210,15 +210,51 @@
     
     float:center;
     
-    height: 3000px;
+    height: 2001px;
     
-    width: 3000px;
+    width: 1683px;
     
-    margin-left: 100px;
+    margin-left: 348px;
     
-    margin-right:100px;
+    margin-right:348px;
     
-    background-image: url("");
+    background-image: url("1.png");
+}
+.imagenessociales2{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 2001px;
+    
+    width: 1683px;
+    
+    margin-left:348px;
+    
+    margin-right:348px;
+    
+    background-image: url("2.png");
+}
+.imagenessociales3{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 2001px;
+    
+    width: 1683px;
+    
+    margin-left: 348px;
+    
+    margin-right:348px;
+    
+    background-image: url("3.png");
 }
 
 .imageneingles{

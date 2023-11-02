@@ -11,20 +11,25 @@
     
     body{
     
-    background-image: url("FT5.png");
+    background-image: url("");
     
     background-repeat: repeat;
     
     }
     
-    .fondotecnologia{
-    
-        background-image: url("");
+    .fondomate{
+        background-image: url("Fondo8.png");
         
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         
         }
-    
+        
+        .fondoingles{
+            background-image: url("in2.png");
+            
+            background-repeat: repeat;
+            
+            }
     
     .imagenes{
     
@@ -158,16 +163,17 @@
         
         float:center;
         
-        height: 300px;
+        height: 4500px;
         
-        width: 270px;
+        width: 1043px;
         
-        margin-left: 17px;
+        margin-left: 0px;
+    
+        margin-right:0px;
         
-        margin-right:17px;
-        
-        background-image: url("");
+        background-image: url("ft9.jpg");
     }
+    
     .imagenesmatematicas3{
 
  
@@ -176,15 +182,16 @@
         
         float:center;
         
-        height: 300px;
+        height: 473px;
         
-        width: 772px;
+        width: 1043px;
         
         margin-left: 5px;
         
         margin-right:7px;
         
         background-image: url("fat3.jpg");
+        
     }
 
 .imagenessociales{
@@ -212,17 +219,72 @@
 
     background-repeat: no-repeat;
     
-    float:center;
+    float: center;
     
-    height: 200px;
+    height: 725px;
     
-    width: 260px;
+    width: 999px;
     
-    margin-left: 5px;
+    margin-left: 12px;
     
     margin-right:5px;
     
-    background-image: url("");
+    background-image: url("in1.png");
+}
+.imagenesingles2{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 293px;
+    
+    width: 210px;
+    
+    margin-left: 400px;
+    
+    margin-right:5px;
+    
+    background-image: url("in3.jpeg");
+}
+
+.imageneingles3{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("in4.jpeg");
+}
+.imageningles4{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("in5.jpeg");
 }
 
 .imagenestecnologuia{

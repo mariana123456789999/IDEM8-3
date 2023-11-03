@@ -29,15 +29,14 @@
             }
         
         .fondoingles{
-            background-image: url("Fondo.png");
+            background-image: url("fondoin.png");
             background-repeat: repeat;
             
-            }
+        }
             .fondotec{
                 background-image: url("Fondotec.png");
                 background-repeat: repeat;
-                
-                }
+            }
                 .fondoinicion{
                     background-image: url("fonsi.png");
                     background-repeat: repeat;
